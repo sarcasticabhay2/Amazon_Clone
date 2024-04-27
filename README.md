@@ -1,1 +1,5 @@
-# Amazon_Clone
+<center>
+
+<img src="./amazon.png" alt="amazon Poster"/>
+
+</center>
